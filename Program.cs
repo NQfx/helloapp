@@ -6,7 +6,7 @@ public static class Program
 {
     public static void Main()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
     public static void greetWhite() => Console.WriteLine("hello white");
